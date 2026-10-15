@@ -2,9 +2,9 @@
 
 Dexman AI is building infrastructure for deploying physical intelligence and dexterity on real hardware and real tasks.
 
-Our focus is practical robotics engineering that makes frontier technologies accessible and usable by anybody in real-world environments.
+Our focus is practical engineering that makes frontier robotics accessible and usable by anybody in real-world environments.
 
-Most of our work is in development and hence not public yet. As our codebase matures, we plan to make most of it public and open source.
+Most of our work is currently in development, and we’re excited to share more of it as the codebase matures. As we continue building, we plan to open source a growing portion of our work.
 
 ## Featured public repositories
 
